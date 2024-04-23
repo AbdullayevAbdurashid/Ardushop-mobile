@@ -1,5 +1,4 @@
 === Version: 1.2.1 - Update 23-sep-2021 ===
-
 ## Docs: https://appcheap.io/docs/cirilla-developers-docs/
 
 ## How to Use
